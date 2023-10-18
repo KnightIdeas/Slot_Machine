@@ -1,0 +1,56 @@
+body {
+    font-family: Arieal, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+}
+
+main {
+    /* Styles for the main gain area */
+}
+
+#reels {
+    /* Styles for the reels */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid white;
+    min-height: 100px;
+    background-color: black;
+}
+
+#reels div {
+    padding: 20px;
+    border: 1px solid white;
+    min-width: 50px;
+    text-align: center;
+    font-size: 2em;
+    background-color: grey;
+}
+
+#reels .reel div{
+    margin: 4px;
+    padding: 20px;
+    border: 1px solid white;
+    min-width: 50px;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#spinButton {
+    /* Styles for the spin button */
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#statusArea {
+    /* Styles for the status area */
+    margin-top: 20px;
+}
