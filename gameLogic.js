@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const SYMBOLS = ["A", "B", "C", "D"];
     let balance = 1000;
-    balanceElement.textContent = "Balance: $" + balance;
+    balanceElement.textContent = "Balance: £" + balance;
     const NUM_REELS = 3;
     const NUM_ROWS = 3;
 
