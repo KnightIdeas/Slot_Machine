@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
             messageElement.textContent = "You lost!";
         }
 
-        balanceElement.textContent = "Balance: $" + balance;
+        balanceElement.textContent = "Balance: £" + balance;
     }
 
     initializeReels();
