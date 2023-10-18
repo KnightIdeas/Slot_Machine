@@ -1,6 +1,7 @@
 body {
     font-family: Arieal, sans-serif;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -11,6 +12,14 @@ body {
 
 main {
     /* Styles for the main gain area */
+}
+
+header h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 #reels {
