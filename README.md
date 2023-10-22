@@ -1,4 +1,4 @@
-# Simple Slot Machine: A JavaScript Learning Project
+# [Simple Slot Machine:](https://knightideas.github.io/Slot_Machine/) A JavaScript Learning Project
 
 This repository represents the journey from a guided JavaScript tutorial into an interactive, web-based slot machine game. Inspired by concepts from [Tech With Tim's](https://www.youtube.com/@TechWithTim) tutorial, ["Learn JavaScript With This ONE Project!"](https://www.youtube.com/watch?v=E3XxeE7NF30), this project takes the foundational knowledge a step further.
 
